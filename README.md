@@ -39,7 +39,5 @@ The analysis is based on a cleaned dataset containing historical Swiggy order re
 ---
 ## 👨‍💻 Author
 **Name:** Ankit Kumar  
-**College:** UPES  
-**SAP ID:** [Leave Placeholder / Add your SAP ID here]  
 
 *Feel free to connect or reach out for any questions regarding this project!*
