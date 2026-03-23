@@ -18,7 +18,7 @@ The analysis is based on a cleaned dataset containing historical Swiggy order re
 ## 📸 Dashboard Preview
 ![Swiggy Dashboard Preview](dashboard.png)
 
-*(Note: Replace `dashboard.png` with the actual screenshot of your Power BI dashboard before publishing if needed)*
+
 
 ## 🛠️ Tools Used
 * **Power BI:** Data visualization, DAX modeling, and interactive dashboard creation.
